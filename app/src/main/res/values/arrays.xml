@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="sportCategoryValues">
+        <item>football</item>
+        <item>hockey</item>
+        <item>tennis</item>
+        <item>basketball</item>
+        <item>volleyball</item>
+    </array>
+    <array name="sportCategoryTitles">
+        <item>Football</item>
+        <item>Hockey</item>
+        <item>Tennis</item>
+        <item>Basketball</item>
+        <item>Volleyball</item>
+    </array>
+</resources>

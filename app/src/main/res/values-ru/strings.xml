@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Спортивные новости</string>
+    <string name="sportСategory">Категория</string>
+    <string name="place">Место проведения: &lt;b>%1$s&lt;/b></string>
+    <string name="errorRetrievingData">Ошибка при получении данных</string>
+</resources>

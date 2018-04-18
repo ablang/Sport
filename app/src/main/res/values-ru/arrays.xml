@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="sportCategoryTitles">
+        <item>Футбол</item>
+        <item>Хоккей</item>
+        <item>Теннис</item>
+        <item>Баскетбол</item>
+        <item>Волейбол</item>
+    </array>
+</resources>

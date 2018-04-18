@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sport News</string>
+    <string name="sportСategory">Сategory</string>
+    <string name="tournamentAndTime">%1$s · %2$s</string>
+    <string name="place">Place: &lt;b>%1$s&lt;/b></string>
+    <string name="errorRetrievingData">Error while retrieving data</string>
+</resources>
